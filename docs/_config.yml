@@ -1,6 +1,9 @@
 title: Meu Portfólio
-email: email@exemplo.com
-description: >- # Esta é uma descrição
-  Bem-vindo ao meu portfólio online, onde apresento meus projetos e habilidades.
+description: Meu portfólio profissional.
 theme: jekyll-theme-minimal
+author: Léo Cavalcante 
+email: leo.cav.00@gmail.com
+social_links:
+
+  linkedin: https://www.linkedin.com/in/l%C3%A9o-cavalcante-84995b89/
 
