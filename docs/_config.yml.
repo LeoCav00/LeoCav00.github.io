@@ -1,1 +1,6 @@
+title: Meu Portfólio
+email: email@exemplo.com
+description: >- # Esta é uma descrição
+  Bem-vindo ao meu portfólio online, onde apresento meus projetos e habilidades.
+theme: jekyll-theme-minimal
 
